@@ -10,22 +10,22 @@
                     <a class="nav-link" href="/">Beranda</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Tentang</a>
+                    <a class="nav-link" href="/tentang">Tentang</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Layanan</a>
+                    <a class="nav-link" href="/layanan">Layanan</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Deep Flow Technique</a>
+                    <a class="nav-link" href="/dft">Deep Flow Technique</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Analisis</a>
+                    <a class="nav-link" href="/analisis">Analisis</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Kontak</a>
+                    <a class="nav-link" href="/kontak">Kontak</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Dokumentasi</a>
+                    <a class="nav-link" href="/dokumentasi">Dokumentasi</a>
                 </li>
             </ul>
         </div>

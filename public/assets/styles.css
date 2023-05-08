@@ -14,8 +14,17 @@ nav .navbar-collapse ul li a {
     font-size: 20px;
 }
 
+nav .navbar-collapse ul li:last-child a {
+    margin-right: 0px;
+}
+
 nav .navbar-collapse ul li:last-child {
     margin-right: 0px;
+}
+
+.header-page {
+    font-weight: 700;
+    font-size: 40px;
 }
 
 footer {
@@ -73,4 +82,45 @@ footer .menu a:hover {
 .beranda .jumbo a:hover {
     color: white;
     text-decoration: none;
+}
+
+.tentang h4 {
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.tentang p {
+    font-weight: 400;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.tentang .pencapaian {
+    background-color: #282828;
+}
+
+.tentang .pencapaian .box-pencapaian {
+    width: 400px;
+    text-align: center;
+    height: 308px;
+}
+
+.tentang .pencapaian .box-pencapaian h5 {
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.tentang .pencapaian .box-pencapaian p {
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.tentang .founder .nama-founder {
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.tentang .founder .list {
+    width: 42px;
+    height: 18px;
 }

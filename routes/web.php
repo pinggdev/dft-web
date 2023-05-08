@@ -16,3 +16,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('pages.beranda');
 });
+
+Route::get('/tentang', function () {
+    return view('pages.tentang');
+});
