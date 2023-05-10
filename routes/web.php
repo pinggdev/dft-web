@@ -24,3 +24,7 @@ Route::get('/tentang', function () {
 Route::get('/layanan', function () {
     return view('pages.layanan');
 });
+
+Route::get('/dft', function () {
+    return view('pages.dft');
+});

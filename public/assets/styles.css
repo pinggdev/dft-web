@@ -124,3 +124,20 @@ footer .menu a:hover {
     width: 42px;
     height: 18px;
 }
+
+.layanan .icon-text {
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.dft p {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+}
+
+.dft .header-dft {
+    font-weight: 400;
+    font-size: 24px;
+}

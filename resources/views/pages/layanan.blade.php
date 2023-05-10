@@ -9,18 +9,18 @@
                         <div class="row">
                             <div class="col-sm-12 mb-5 py-5">
                                 <div class="row">
-                                    <div class="col-sm-4">
+                                    <div class="col-sm-2">
                                         <img src="{{ asset('assets/images/produk-layanan.png') }}" alt="produk-layanan" class="w-0">
                                     </div>
-                                    <div class="col-sm-8 icon-text align-self-center">
+                                    <div class="col-sm-10 icon-text align-self-center">
                                         <p>Penjualan Produk Sayur, Olahan sayur (Mie Sehat), Perlengkapan & Alat Hidroponik.</p>
                                     </div>
                                 </div>
-                                <div class="row">
-                                    <div class="col-sm-4">
+                                <div class="row mt-5">
+                                    <div class="col-sm-2">
                                         <img src="{{ asset('assets/images/jasa-layanan.png') }}" alt="jasa-layanan" class="w-0">
                                     </div>
-                                    <div class="col-sm-8 icon-text align-self-center">
+                                    <div class="col-sm-10 icon-text align-self-center">
                                         <p>Penjualan Produk Sayur, Olahan sayur (Mie Sehat), Perlengkapan & Alat Hidroponik.</p>
                                     </div>
                                 </div>
