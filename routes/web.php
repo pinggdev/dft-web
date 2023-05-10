@@ -28,3 +28,7 @@ Route::get('/layanan', function () {
 Route::get('/dft', function () {
     return view('pages.dft');
 });
+
+Route::get('/analisis', function () {
+    return view('pages.analisis');
+});

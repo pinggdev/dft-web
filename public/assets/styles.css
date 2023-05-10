@@ -141,3 +141,31 @@ footer .menu a:hover {
     font-weight: 400;
     font-size: 24px;
 }
+
+.analisis h3 {
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.analisis p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    text-align: justify;
+}
+
+.analisis ul li {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    text-align: justify;
+}
+
+.analisis button {
+    background-color: #282828;
+    border: none;
+}
+
+.analisis button:hover {
+    background-color: #282828;
+}

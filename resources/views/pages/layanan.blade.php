@@ -4,7 +4,7 @@
     <section class="layanan">
         <h2 class="text-center header-page mt-3 container">LAYANAN</h2>
             <div class="container">
-                <div class="row mt-5 d-flex justify-content-between profil">
+                <div class="row mt-5 d-flex justify-content-between">
                     <div class="col-sm-5 align-self-center">
                         <div class="row">
                             <div class="col-sm-12 mb-5 py-5">
