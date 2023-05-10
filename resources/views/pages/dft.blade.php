@@ -41,8 +41,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-1"></div>
-                    <div class="col-sm-6">
+                    <div class="col-sm-2"></div>
+                    <div class="col-sm-5">
                         <div class="row">
                             <div class="col-sm-12 d-flex justify-content-end">
                                 <img src="{{ asset('assets/images/dft.png') }}" alt="dft" class="w-0">

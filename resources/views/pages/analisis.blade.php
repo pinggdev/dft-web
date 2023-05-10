@@ -55,7 +55,7 @@
                             <li>Usaha hidroponik ini menghasilkan keuntungan sebesar Rp. 351.540.535 selama umur ekonomis usaha 10 tahun.</li>
                         </ul>
                     </div>
-                    <div class="col-sm-1"></div>
+                    <div class="col-sm-2"></div>
                     <div class="col-sm-5 mt-5">
                         <h5>Catatan dari hasil analisis untuk DFT Per Instalasi: </h5>
                         <p>1. Berdasarkan analisis investasi per greenhouse, usaha yang nantinya dijalankan akan balik modal pada kurun waktu kurang lebih 4 bulan dengan modal investasi Rp. 4.450.000</p>

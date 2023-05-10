@@ -32,3 +32,7 @@ Route::get('/dft', function () {
 Route::get('/analisis', function () {
     return view('pages.analisis');
 });
+
+Route::get('/kontak', function () {
+    return view('pages.kontak');
+});
