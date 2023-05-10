@@ -29,7 +29,7 @@
                     </div>
                     <div class="col-sm-2"></div>
                     <div class="col-sm-5">
-                        <img src="{{ asset('assets/images/kontak.png') }}" alt="kontak" class="w-0">
+                        <img src="{{ asset('assets/images/kontak.png') }}" alt="kontak" class="w-100 h-100">
                     </div>
                 </div>
             </div>

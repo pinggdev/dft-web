@@ -45,7 +45,7 @@
                     <div class="col-sm-5">
                         <div class="row">
                             <div class="col-sm-12 d-flex justify-content-end">
-                                <img src="{{ asset('assets/images/dft.png') }}" alt="dft" class="w-0">
+                                <img src="{{ asset('assets/images/dft.png') }}" alt="dft" class="w-100">
                             </div>
                         </div>
                     </div>
