@@ -21,7 +21,7 @@
                                         <img src="{{ asset('assets/images/jasa-layanan.png') }}" alt="jasa-layanan" class="w-100">
                                     </div>
                                     <div class="col-sm-10 icon-text align-self-center">
-                                        <p>Penjualan Produk Sayur, Olahan sayur (Mie Sehat), Perlengkapan & Alat Hidroponik.</p>
+                                        <p>Pelatihan & Pemberdayaan kerjasama kementerian, BUMN, BUMD, Swasta, Kontruksi GreenHouse Hidroponik, Pengelolaan Lahan.</p>
                                     </div>
                                 </div>
                             </div>
